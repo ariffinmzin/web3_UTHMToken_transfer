@@ -1,8 +1,9 @@
 {
-  "name": "02_ethtransfer",
+  "name": "web3_UTHMToken_transfer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ethereumjs/tx": "^4.0.2",
     "bootstrap": "^4.6.0",
     "dotenv": "^8.2.0",
     "react": "^16.14.0",
