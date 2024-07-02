@@ -1,2 +1,2 @@
-# Transfer UTHMToken from one account to other
+# Transfer UTHMToken from one account to another
 
